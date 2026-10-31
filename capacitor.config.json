@@ -1,0 +1,10 @@
+{
+  "appId": "app.kanade.player",
+  "appName": "Kanade",
+  "webDir": "public",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "CapacitorCookies": { "enabled": true }
+  }
+}
